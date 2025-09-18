@@ -5,9 +5,9 @@ A Flutter application designed for coffee shop owners in Cairo to efficiently ma
 ## 📸 Screenshots
 
 Here are a few screenshots of the app in action.
-
+| ![Dashboard Screen](dashboard.png) |
 | Dashboard (Pending Orders) | Add New Order Screen |
-| :---: | :---: |
+| ![Dashboard Screen](dashboard22.png) | ![Add Order Screen](add_order.png) |
 
 ## 🏛️ Architecture and Principles Applied
 
